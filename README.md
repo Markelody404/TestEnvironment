@@ -1,11 +1,22 @@
-# TestEnvironment
-This is a testing site for my newbie self (still inept)
+# TestEnvironment  
 
-To successfully run the portfolio;
-> Open Folder in VScode
-> The main directory must be "TestEnvironment-main"
-> Open terminal, cmd
-> Type npm init, enter key all
-> Type npm install express, wait until complete
-> Type node index.js
-> Click the localhost link, and here you are
+This is a simple testing site for my beginner journey.  
+
+---
+
+## 🚀 Getting Started  
+
+Follow these steps to successfully run the portfolio:  
+
+### 1. Open the Project in VS Code  
+- Make sure the main directory is named:  
+
+### 2. Set Up the Project  
+- Open the terminal (or Command Prompt) inside the project folder.  
+- Initialize npm (accept all defaults):  
+```bash
+npm init -y
+npm install express
+node index.js
+
+Click the localhost on the terminal and you are good to go!!
