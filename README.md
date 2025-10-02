@@ -19,4 +19,4 @@ npm init -y
 npm install express
 node index.js
 
-Click the localhost on the terminal and you are good to go!!
+- Click the localhost on the terminal and you are good to go!!
